@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c11f50a-c3c0-42a5-9c2e-557ae89f66a0" name="Default Changelist" comment="" />
+    <list default="true" id="8c11f50a-c3c0-42a5-9c2e-557ae89f66a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dashboard/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jv7WGwcxre0PmSe8RYCwEBQ9RM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +34,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8c11f50a-c3c0-42a5-9c2e-557ae89f66a0" name="Default Changelist" comment="" />
@@ -35,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604672741676</updated>
-      <workItem from="1604672742729" duration="2974000" />
+      <workItem from="1604672742729" duration="3199000" />
     </task>
     <servers />
   </component>
@@ -51,5 +60,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604674193019" />
+    <state x="594" y="380" key="Github.ShareDialog" timestamp="1604676659980">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="594" y="380" key="Github.ShareDialog/0.23.1440.877@0.23.1440.877" timestamp="1604676659980" />
+    <state x="416" y="206" key="Github.UntrackedFilesDialog" timestamp="1604676669122">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="416" y="206" key="Github.UntrackedFilesDialog/0.23.1440.877@0.23.1440.877" timestamp="1604676669122" />
+    <state x="558" y="264" width="437" height="636" key="svn.repositoryBrowser" timestamp="1604676635207">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="558" y="264" width="437" height="636" key="svn.repositoryBrowser/0.23.1440.877@0.23.1440.877" timestamp="1604676635207" />
   </component>
 </project>

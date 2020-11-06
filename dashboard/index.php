@@ -81,7 +81,7 @@
           <li class="nav-item">
             <a class="nav-link" href="fees.php">
               <span data-feather="bar-chart-2"></span>
-              Fee Report
+              Fee Reports
             </a>
           </li>
         </ul>
